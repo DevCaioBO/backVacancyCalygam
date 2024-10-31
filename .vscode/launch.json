@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-VacancyApplication<vacancy>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.calygam.vacancy.VacancyApplication",
+            "projectName": "vacancy",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
